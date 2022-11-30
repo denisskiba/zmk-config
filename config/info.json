@@ -47,10 +47,10 @@
           { "label": "C", "row": 3, "col": 3, "x": 3, "y": 3 },
           { "label": "V", "row": 3, "col": 4, "x": 4, "y": 3 },
           { "label": "B", "row": 3, "col": 5, "x": 5, "y": 3 },
-          { "label": "CTRL", "row": 3, "col": 10, "x": 7, "y": 3 },
-          { "label": "ALT", "row": 3, "col": 11, "x": 8, "y": 3 },
-          { "label": "CAPS", "row": 3, "col": 12, "x": 10, "y": 3 },
-          { "label": "CTRL", "row": 3, "col": 13, "x": 11, "y": 3 },
+          { "label": "CTRL", "row": 3, "col": 10, "x": 7, "y": 4 },
+          { "label": "ALT", "row": 3, "col": 11, "x": 8, "y": 4 },
+          { "label": "CAPS", "row": 3, "col": 12, "x": 10, "y": 4 },
+          { "label": "CTRL", "row": 3, "col": 13, "x": 11, "y": 4 },
           { "label": "N", "row": 3, "col": 10, "x": 13, "y": 3 },
           { "label": "M", "row": 3, "col": 11, "x": 14, "y": 3 },
           { "label": "<", "row": 3, "col": 12, "x": 15, "y": 3 },
@@ -62,19 +62,19 @@
           { "label": "BSLH", "row": 4, "col": 2, "x": 2, "y": 4 },
           { "label": "LEFT", "row": 4, "col": 3, "x": 3, "y": 4 },
           { "label": "RIGHT", "row": 4, "col": 4, "x": 4, "y": 4 },
-          { "label": "SHIFT", "row": 4, "col": 5, "x": 6, "y": 4 },
-          { "label": "FN", "row": 4, "col": 6, "x": 7, "y": 4 },
-          { "label": "HOME", "row": 4, "col": 7, "x": 8, "y": 4 },
-          { "label": "PGUP", "row": 4, "col": 8, "x": 10, "y": 4 },
-          { "label": "ENT", "row": 4, "col": 9, "x": 11, "y": 4 },
-          { "label": "SPC", "row": 4, "col": 10, "x": 12, "y": 4 },
+          { "label": "SHIFT", "row": 4, "col": 5, "x": 6, "y": 5 },
+          { "label": "FN", "row": 4, "col": 6, "x": 7, "y": 5 },
+          { "label": "HOME", "row": 4, "col": 7, "x": 8, "y": 5 },
+          { "label": "PGUP", "row": 4, "col": 8, "x": 10, "y": 5 },
+          { "label": "ENT", "row": 4, "col": 9, "x": 11, "y": 5 },
+          { "label": "SPC", "row": 4, "col": 10, "x": 12, "y": 5 },
           { "label": "UP", "row": 4, "col": 11, "x": 14, "y": 4 },
           { "label": "DOWN", "row": 4, "col": 12, "x": 15, "y": 4 },
           { "label": "[", "row": 4, "col": 13, "x": 16, "y": 4 },
           { "label": "]", "row": 4, "col": 14, "x": 17, "y": 4.25 },
 
-          { "label": "END", "row": 5, "col": 7, "x": 8, "y": 5 },
-          { "label": "PGDW", "row": 5, "col": 8, "x": 10, "y": 5 }
+          { "label": "END", "row": 5, "col": 7, "x": 8, "y": 6 },
+          { "label": "PGDW", "row": 5, "col": 8, "x": 10, "y": 6 }
         ]
       }
     }
