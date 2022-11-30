@@ -64,10 +64,10 @@
           { "label": "PG_UP", "row": 4, "col": 3, "x": 10, "y": 5 },
           { "label": "ENTER", "row": 4, "col": 4, "x": 11, "y": 5 },
           { "label": "SPACE", "row": 4, "col": 5, "x": 12, "y": 5 },
-          { "label": "UP", "row": 4, "col": 6, "x": 7, "y": 4 },
-          { "label": "DOWN", "row": 4, "col": 7, "x": 8, "y": 4 },
-          { "label": "LBKT", "row": 4, "col": 8, "x": 9, "y": 4 },
-          { "label": "RBKT", "row": 4, "col": 9, "x": 10, "y": 4.25 },
+          { "label": "UP", "row": 4, "col": 6, "x": 14, "y": 4 },
+          { "label": "DOWN", "row": 4, "col": 7, "x": 15, "y": 4 },
+          { "label": "LBKT", "row": 4, "col": 8, "x": 16, "y": 4 },
+          { "label": "RBKT", "row": 4, "col": 9, "x": 17, "y": 4.25 },
           { "label": "END", "row": 4, "col": 10, "x": 8, "y": 6 },
           { "label": "PG_DN", "row": 4, "col": 11, "x": 10, "y": 6 }
         ]
