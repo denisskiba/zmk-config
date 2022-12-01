@@ -15,7 +15,7 @@
           { "label": "0", "row": 0, "col": 10, "x": 17, "y": 0.25 },
           { "label": "BSPC", "row": 0, "col": 11, "x": 18, "y": 0.25 },
         
-          { "label": "CMD", "row": 1, "col": 0, "x": 0, "y": 1.25, "w":1.25 },
+          { "label": "CMD", "row": 1, "col": 0, "x": 0, "y": 1.25 },
           { "label": "Q", "row": 1, "col": 1, "x": 1, "y": 1.25 },
           { "label": "W", "row": 1, "col": 2, "x": 2, "y": 1 },
           { "label": "E", "row": 1, "col": 3, "x": 3, "y": 1 },
@@ -26,9 +26,9 @@
           { "label": "I", "row": 1, "col": 8, "x": 15, "y": 1 },
           { "label": "O", "row": 1, "col": 9, "x": 16, "y": 1 },
           { "label": "P", "row": 1, "col": 10, "x": 17, "y": 1.25 },
-          { "label": "+", "row": 1, "col": 11, "x": 18, "y": 1.25, "w":1.25 },
+          { "label": "+", "row": 1, "col": 11, "x": 18, "y": 1.25 },
         
-          { "label": "TAB", "row": 2, "col": 0, "x": 0, "y": 2.25, "w":1.25 },
+          { "label": "TAB", "row": 2, "col": 0, "x": 0, "y": 2.25 },
           { "label": "A", "row": 2, "col": 1, "x": 1, "y": 2.25 },
           { "label": "S", "row": 2, "col": 2, "x": 2, "y": 2 },
           { "label": "D", "row": 2, "col": 3, "x": 3, "y": 2 },
@@ -39,9 +39,9 @@
           { "label": "K", "row": 2, "col": 8, "x": 15, "y": 2 },
           { "label": "L", "row": 2, "col": 9, "x": 16, "y": 2 },
           { "label": ":", "row": 2, "col": 10, "x": 17, "y": 2.25 },
-          { "label": "'", "row": 2, "col": 11, "x": 18, "y": 2.25, "w":1.25 },
+          { "label": "'", "row": 2, "col": 11, "x": 18, "y": 2.25 },
                 
-          { "label": "DEL", "row": 3, "col": 0, "x": 0, "y": 3.25, "w":1.25 },
+          { "label": "DEL", "row": 3, "col": 0, "x": 0, "y": 3.25 },
           { "label": "Z", "row": 3, "col": 1, "x": 1, "y": 3.25 },
           { "label": "X", "row": 3, "col": 2, "x": 2, "y": 3 },
           { "label": "C", "row": 3, "col": 3, "x": 3, "y": 3 },
@@ -56,7 +56,7 @@
           { "label": "COMMA", "row": 3, "col": 8, "x": 15, "y": 3 },
           { "label": "PERIOD", "row": 3, "col": 9, "x": 16, "y": 3 },
           { "label": "SLASH", "row": 3, "col": 10, "x": 17, "y": 3.25 },
-          { "label": "MINUS", "row": 3, "col": 11, "x": 18, "y": 3.25, "w":1.25 },
+          { "label": "MINUS", "row": 3, "col": 11, "x": 18, "y": 3.25 },
 
           { "label": "GRAVE", "row": 4, "col": 0, "x": 1, "y": 4.25 },
           { "label": "BSLH", "row": 4, "col": 1, "x": 2, "y": 4 },
