@@ -17,8 +17,8 @@
                      &kp BSLH      &kp N1        &kp N2        &kp N3        &kp N4        &kp N5                                                                                     &kp N6        &kp N7        &kp N8        &kp N9            &kp N0        &kp MINUS
                      &kp LGUI      &kp Q         &kp W         &kp E         &kp R         &kp T                                                                                      &kp Y         &kp U         &kp I         &kp O             &kp P         &kp LBKT
                      &kp LALT      &kp A         &kp S         &kp D         &kp F         &kp G                                                                                      &kp H         &kp J         &kp K         &kp L             &kp SEMI      &kp SQT
-                     &kp LSHFT     &kp Z         &kp X         &kp C         &kp V         &kp B                       &mo NUM       &kp SPACE     &kp C_VOL_DN  &kp C_VOL_UP         &kp N         &kp M         &kp COMMA     &kp PERIOD        &kp SLASH     &kp RBKT
-                                   &kp DOWN      &kp UP        &kp LEFT      &kp RIGHT                   &lt NAV SPACE &mt LGUI DEL  &kp TAB       &kp TAB       &kp ENTER  &kp BSPC                &kp GRAVE     &kp CARET     &kp AMPS          &kp QMARK
+                     &kp LSHFT     &kp Z         &kp X         &kp C         &kp V         &kp B                       &mo NUM       &kp SPACE     &kp C_VOL_DN  &kp C_VOL_UP         &kp N         &kp M         &kp COMMA     &kp PERIOD        &kp SLASH     &mt RSHFT RBKT
+                                   &kp UP        &kp DOWN      &kp LEFT      &kp RIGHT                   &lt NAV SPACE &mt LGUI DEL  &kp TAB       &kp TAB       &kp ENTER  &kp BSPC                &kp GRAVE     &kp CARET     &kp AMPS          &kp QMARK
                                                                                                                                      &kp ESC       &kp ESC 
                      >;
               };
@@ -39,7 +39,7 @@
                      &none        &none        &kp N4        &kp N5        &kp N6               &kp KP_PLUS                                                                                       &trans        &kp N4        &kp N5        &kp N6              &kp KP_PLUS   &trans
                      &none        &none        &kp N1        &kp N2        &kp N3               &kp ENTER                   &trans        &bt BT_CLR    &bt BT_CLR &bt BT_SEL 0                   &trans        &kp N1        &kp N2        &kp N3              &kp ENTER     &trans
                                   &none        &kp N0        &kp N0        &kp KP_DOT                         &trans        &trans        &trans        &trans     &bt BT_SEL 1       &trans                    &kp N0        &kp N0        &kp KP_DOT          &kp ENTER
-                                                                                                                            &trans        &trans    
+                                                                                                                                          &trans        &trans    
                      >;
               };
        };
