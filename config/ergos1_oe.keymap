@@ -18,17 +18,17 @@
                      &kp LCTRL     &kp Q         &kp W         &kp E         &kp R         &kp T                                                                                      &kp Y         &kp U         &kp I         &kp O             &kp P         &kp LBKT
                      &kp LALT      &kp A         &kp S         &kp D         &kp F         &kp G                                                                                      &kp H         &kp J         &kp K         &kp L             &kp SEMI      &kp SQT
                      &kp LSHFT     &kp Z         &kp X         &kp C         &kp V         &kp B                       &mo NUM       &kp SPACE     &kp C_VOL_DN  &kp C_VOL_UP         &kp N         &kp M         &kp COMMA     &kp PERIOD        &kp SLASH     &mt RSHFT RBKT
-                                   &kp UP        &kp DOWN      &kp LEFT      &kp RIGHT                   &lt NAV SPACE &mt LGUI DEL  &kp TAB       &kp TAB       &kp ENTER  &kp BSPC                &kp GRAVE     &kp CARET     &kp AMPS          &kp QMARK
+                                   &kp UP        &kp DOWN      &kp LEFT      &kp RIGHT                   &mt LGUI DEL  &lt NAV SPACE &kp TAB       &kp TAB       &kp BSPC   &kp ENTER               &kp GRAVE     &kp CARET     &kp AMPS          &kp QMARK
                                                                                                                                      &kp ESC       &kp ESC 
                      >;
               };
               nav_layer {
                  bindings = <
-                     &trans        &kp F1        &kp F2        &kp F3               &kp F4        &kp F5                                                                                            &kp F6        &kp F7        &kp F8        &kp F9        &kp F10       &trans
-                     &trans        &trans        &kp LG(LBKT)  &kp UP               &kp LG(RBKT)  &kp LC(G)                                                                                         &trans        &kp N7        &kp N8        &kp N9        &kp KP_MINUS  &trans
-                     &trans        &trans        &kp LEFT      &kp DOWN             &kp RIGHT     &kp LA(LG(G))                                                                                     &trans        &kp N4        &kp N5        &kp N6        &kp KP_PLUS   &trans
-                     &kp LSHFT     &trans        &trans        &kp LA(LG(C))        &kp LA(LG(V)) &trans                      &kp F11       &kp F12       &bt BT_CLR &bt BT_SEL 0                   &trans        &kp N1        &kp N2        &kp N3        &kp ENTER     &trans
-                                   &trans        &trans        &kp LA(LS(EQUAL))    &kp LA(EQUAL)               &trans        &trans        &trans        &trans     &bt BT_SEL 1     &trans        &trans        &trans        &kp KP_DOT    &kp ENTER
+                     &trans        &kp F1        &kp F2        &kp F3               &kp F4        &kp F5                                                                                            &kp F6        &kp F7       &kp F8       &kp F9       &kp F10     &none
+                     &trans        &trans        &kp LG(LBKT)  &kp UP               &kp LG(RBKT)  &kp LC(G)                                                                                         &trans        &none        &none        &none        &none       &none
+                     &trans        &trans        &kp LEFT      &kp DOWN             &kp RIGHT     &kp LA(LG(G))                                                                                     &trans        &none        &none        &none        &none       &none
+                     &kp LSHFT     &trans        &trans        &kp LA(LG(C))        &kp LA(LG(V)) &trans                      &kp F11       &kp F12       &bt BT_CLR &bt BT_SEL 0                   &trans        &kp GRAVE    &kp CARET    &kp AMPS     &kp QMARK   &none
+                                   &trans        &trans        &kp LA(LS(EQUAL))    &kp LA(EQUAL)               &trans        &trans        &trans        &trans     &bt BT_SEL 1     &trans                      &none        &none        &none        &none
                                                                                                                                             &trans        &trans    
                      >;
               };
