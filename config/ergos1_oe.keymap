@@ -24,11 +24,11 @@
               };
               nav_layer {
                  bindings = <
-                     &trans        &kp F1        &kp F2        &kp F3               &kp F4        &kp F5                                                                                            &kp F6        &kp F7       &kp F8       &kp F9       &kp F10     &none
-                     &trans        &trans        &kp LG(LBKT)  &kp UP               &kp LG(RBKT)  &kp LC(G)                                                                                         &trans        &none        &none        &none        &none       &none
-                     &trans        &trans        &kp LEFT      &kp DOWN             &kp RIGHT     &kp LA(LG(G))                                                                                     &trans        &none        &none        &none        &none       &none
-                     &kp LSHFT     &trans        &trans        &kp LA(LG(C))        &kp LA(LG(V)) &trans                      &kp F11       &kp F12       &bt BT_CLR &bt BT_SEL 0                   &trans        &kp GRAVE    &kp CARET    &kp AMPS     &kp QMARK   &none
-                                   &trans        &trans        &kp LA(LS(EQUAL))    &kp LA(EQUAL)               &trans        &trans        &trans        &trans     &bt BT_SEL 1     &trans                      &none        &none        &none        &none
+                     &trans        &kp F1        &kp F2        &kp F3               &kp F4        &kp F5                                                                               &kp F6        &kp F7       &kp F8       &kp F9       &kp F10     &none
+                     &trans        &trans        &kp LG(LBKT)  &kp UP               &kp LG(RBKT)  &kp LC(G)                                                                            &trans        &none        &none        &none        &none       &none
+                     &trans        &trans        &kp LEFT      &kp DOWN             &kp RIGHT     &kp LA(LG(G))                                                                        &trans        &none        &none        &none        &none       &none
+                     &kp LSHFT     &trans        &trans        &kp LA(LG(C))        &kp LA(LG(V)) &trans                      &kp F11       &kp F12       &trans     &trans            &trans        &kp GRAVE    &kp CARET    &kp AMPS     &kp QMARK   &none
+                                   &trans        &trans        &kp LA(LS(EQUAL))    &kp LA(EQUAL)               &trans        &trans        &trans        &trans     &trans     &trans               &none        &none        &none        &none
                                                                                                                                             &trans        &trans    
                      >;
               };
