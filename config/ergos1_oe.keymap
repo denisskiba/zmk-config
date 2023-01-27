@@ -19,14 +19,14 @@
                      &kp LALT      &kp Q         &kp W         &kp E         &kp R         &kp T                                                                                          &kp Y         &kp U         &kp I         &kp O             &kp P         &kp LBKT
                      &kp LGUI      &kp A         &kp S         &kp D         &kp F         &kp G                                                                                          &kp H         &kp J         &kp K         &kp L             &kp SEMI      &kp SQT
                      &kp LSHFT     &kp Z         &kp X         &kp C         &kp V         &kp B                 &mt LCTRL LG(SPACE)  &tog GAME   &kp C_VOL_DN  &kp C_VOL_UP              &kp N         &kp M         &kp COMMA     &kp PERIOD        &kp SLASH     &mt RSHFT RBKT
-                                   &kp UP        &kp DOWN      &kp LEFT      &kp RIGHT            &lt NAV BSPC   &lt NUM ENTER        &kp TAB     &kp TAB       &mt RCTRL DEL   &kp SPACE               &kp GRAVE     &kp CARET     &kp AMPS          &kp QMARK
+                                   &kp UP        &kp DOWN      &kp LEFT      &kp RIGHT            &lt NAV SPACE  &lt NUM ENTER        &kp TAB     &kp TAB       &mt RCTRL DEL   &kp BSPC                &kp GRAVE     &kp CARET     &kp AMPS          &kp QMARK
                                                                                                                                       &kp ESC     &kp ESC 
                      >;
               };
               nav_layer {
                  bindings = <
                      &trans        &kp F1        &kp F2        &kp F3               &kp F4        &kp F5                                                                               &kp F6        &kp F7       &kp F8       &kp F9       &kp F10     &none
-                     &trans        &trans        &kp LG(LBKT)  &kp UP               &kp LG(RBKT)  &kp LC(G)                                                                            &trans        &none        &none        &none        &none       &none
+                     &trans        &kp LC(SPACE) &kp LG(LBKT)  &kp UP               &kp LG(RBKT)  &kp LC(G)                                                                            &trans        &none        &none        &none        &none       &none
                      &trans        &kp LS(A)     &kp LEFT      &kp DOWN             &kp RIGHT     &kp LA(LG(G))                                                                        &trans        &none        &none        &none        &none       &none
                      &trans        &kp LA(LS(A)) &trans        &kp LA(LG(C))        &kp LA(LG(V)) &kp LG(BSPC)                &kp F11       &kp F12       &trans     &trans            &trans        &kp GRAVE    &kp CARET    &kp AMPS     &kp QMARK   &none
                                    &kp LA(V)     &kp LA(H)     &kp LA(LS(EQUAL))    &kp LA(EQUAL)               &trans        &trans        &trans        &trans     &trans     &trans               &none        &none        &none        &none
